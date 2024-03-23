@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/Arobh/Arobh/blob/main/bg.jpg)
 <h1 align="center">Hi 👋, I'm Arobh Kumar</h1>
 <h3 align="center">Enthusiastic and detail-oriented computer science student with a passion for problem-solving and algorithmic challenges.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Arobh/Arobh/blob/main/front.jpg">

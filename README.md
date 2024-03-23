@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Arobh/Arobh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Arobh Kumar</h1>
 <h3 align="center">Enthusiastic and detail-oriented computer science student with a passion for problem-solving and algorithmic challenges.</h3>
-
+<img align="right" alt="coding" width="400" src="https://github.com/Arobh/Arobh/blob/main/front.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arobh&label=Profile%20views&color=0e75b6&style=flat" alt="arobh" /> </p>
 
 - 🔭 Student of B.Tech. (CSE) (3rd year) [Mahatma Gandhi Central University](https://mgcub.ac.in/)

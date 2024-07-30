@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://github.com/Arobh/Arobh/blob/main/front.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arobh&label=Profile%20views&color=0e75b6&style=flat" alt="arobh" /> </p>
 
-- 🔭 Student of B.Tech. (CSE) (3rd year) [Mahatma Gandhi Central University](https://mgcub.ac.in/)
+- 🔭 Student of B.Tech. (CSE) (4th year) [Mahatma Gandhi Central University](https://mgcub.ac.in/)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arobh](https://github.com/Arobh)
 
-- 💬 Ask me about **DSA,ML...**
+-🔭 Check Out my portfolio on [Arobh](https://arobh.glitch.me/) 
+
+- 💬 Ask me about **DSA, ML, Web Development...**
 
 - 📫 How to reach me **aarobhs087@gmail.com**
 

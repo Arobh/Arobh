@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arobh](https://github.com/Arobh)
 
--🔭 Check Out my portfolio on [Arobh](https://arobh.glitch.me/) 
+- 🤔 Check Out my portfolio on [Arobh](https://arobh.glitch.me/) 
 
 - 💬 Ask me about **DSA, ML, Web Development...**
 
